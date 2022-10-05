@@ -1,0 +1,18 @@
+p.Jack {
+  font-size: 150%;
+  color: lightblue;
+  font-family: cursive;
+}
+p.Cameron {
+  font-size: 150%;
+  color: purple;
+  font-family: fantasy;
+}
+h1 {
+  font-size: 200%;
+  color: lightgreen;
+}
+
+#content {
+  border: dashed 1px orange;
+}
