@@ -1,18 +1,22 @@
 p.Jack {
-  font-size: 150%;
-  color: lightblue;
-  font-family: cursive;
+    font-size: 150%;
+    color: lightblue;
+    font-family: cursive;
+    text-shadow: -5px 5px 2px black;
 }
+
 p.Cameron {
-  font-size: 150%;
-  color: purple;
-  font-family: fantasy;
+    font-size: 150%;
+    color: purple;
+    font-family: fantasy;
+    text-shadow: 5px -5px 2px black;
 }
+
 h1 {
-  font-size: 200%;
-  color: lightgreen;
+    font-size: 200%;
+    color: lightgreen;
+    text-align: center;
 }
 
 #content {
   border: dashed 1px orange;
-}
