@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  background-color: lightblue
+}
+#results {
+  margin-left: 20px;
+}
+
+.ctask {
+  border-style: double;
+  border-radius: 10px;
+  background: violet;
+  padding: 20px;
+}
+
+.etask {
+  border-style: double;
+  border-radius: 10px;
+  background: rgba(255, 0, 0, .75);
+  padding: 20px;
+}
+
+.screenshots {
+  border-style: double;
+  border-radius: 10px;
+  padding: 20px;
+
+}
+
+#sc2 {
+  width: 500px;
+  height: auto;
+}
