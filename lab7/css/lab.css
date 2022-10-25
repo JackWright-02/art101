@@ -1,0 +1,59 @@
+body {
+  background: olivedrab;
+  padding: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+main {
+  background: mintcream;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+#content {
+  margin-top: 80px;
+  text-decoration-color: blue;
+}
+
+#title {
+  float: right;
+  font-family: sans-serif;
+}
+
+.overline {
+  text-decoration: overline;
+  text-decoration-color: olivedrab;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: olivedrab;
+}
+
+.move {
+  font-family: serif;
+  text-align: center;
+}
+
+img {
+  float: right;
+  padding: 10px;
+}
+
+#challenges {
+  font-family: sans-serif;
+}
+#results {
+  font-family: sans-serif;
+}
+#problems {
+  font-family: sans-serif;
+}
+
+p {
+  text-indent: 25px;
+}
