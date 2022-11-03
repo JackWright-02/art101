@@ -1,0 +1,71 @@
+body {
+  background: linear-gradient(to bottom, #cc0000 0%, #ff3300 100%);
+  animation-name: background;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-fill-mode: both;
+  padding: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+main {
+  background: indianred;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+#content {
+  margin-top: 80px;
+  text-decoration-color: blue;
+}
+
+#title {
+  float: top;
+  font-family: sans-serif;
+}
+
+.overline {
+  text-decoration: overline;
+  text-decoration-color: black;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
+.move {
+  font-family: serif;
+  text-align: center;
+}
+
+img {
+  float: right;
+  padding: 10px;
+}
+
+#challenges {
+  font-family: sans-serif;
+}
+#results {
+  font-family: sans-serif;
+}
+#problems {
+  font-family: sans-serif;
+}
+
+p {
+  text-indent: 25px;
+}
+
+@keyframes background {
+  100% {background: radial-gradient(#cc0000 0%, #ff3300 100%);}
+  75%  {background: radial-gradient(#cc0000 100%, #ff3300 0%);}
+  50%  {background: radial-gradient(#cc0000 0%, #ff3300 100%);}
+  25%  {background: radial-gradient(#cc0000 100%, #ff3300 0%);}
+  0% {background: radial-gradient(#cc0000 0%, #ff3300 100%);}
+}
