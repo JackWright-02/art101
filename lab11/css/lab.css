@@ -1,0 +1,117 @@
+body {
+  background-color: #A4C639;
+  padding: 10px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+
+main {
+  background: #FFBB00;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 15px;
+}
+
+#content {
+  margin-top: 80px;
+  text-decoration-color: blue;
+
+}
+
+#title {
+  float: bottom;
+  font-family: sans-serif;
+}
+
+.overline {
+  text-decoration: overline;
+  text-decoration-color: black;
+}
+
+.underline {
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
+.move {
+  font-family: serif;
+  text-align: center;
+}
+
+img {
+  float: right;
+  padding: 10px;
+}
+
+#first {
+  background-color: #55ACEE;
+  margin-left: 20px;
+  border-style: groove;
+  padding: 6px;
+}
+
+#second {
+  background-color: #55ACEE;
+  margin-left: 20px;
+  border-style: groove;
+  padding: 6px;
+}
+
+#third {
+  background-color: #55ACEE;
+  margin-left: 20px;
+  border-style: groove;
+  padding: 6px;
+}
+
+#challenges {
+  font-family: sans-serif;
+  background: #00A1F1;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 5px;
+}
+#results {
+  font-family: sans-serif;
+  background: #00A1F1;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 5px;
+}
+#problems {
+  font-family: sans-serif;
+  background: #00A1F1;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 5px;
+  margin: 5px;
+}
+
+p {
+  text-indent: 25px;
+}
+
+.one {
+  background-color: #ED1C16;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 1px;
+}
+
+.two {
+  background-color: #7B0099;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 1px;
+}
+
+.three {
+  background-color: #F65314;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 1px;
+}

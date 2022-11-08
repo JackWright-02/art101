@@ -16,6 +16,7 @@
         var foodArray = favFood.split('');
         console.log("foodArray =", foodArray);
 
+
         // sort the array
         var foodArraySort = foodArray.sort();
         console.log("foodArraySort =", foodArraySort);
